@@ -1,8 +1,8 @@
 
-#Breast_Cancer Dataset Analysis
+# Breast_Cancer Dataset Analysis
 >*Southern University of Science and Technology, Department of Computer Science and Engineering*
 
->>**11510365 Xue Yiheng**
+**11510365 Xue Yiheng**
 
 [toc]
 
